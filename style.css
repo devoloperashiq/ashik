@@ -1,0 +1,28 @@
+.header{
+    background-color:#e3f2fd;
+}
+.navbar-brand img{
+    height: 60px;
+}
+
+.header-bottom{
+    padding-top: 40px;
+}
+.breadcrumb{
+    background-color: #e9ecef;
+}
+
+.slider-section{
+
+}
+.carousel-item{
+    height: 500px;
+} 
+.scrollspy-example{
+    position: relative;
+    height: 200px;
+    overflow: auto;
+}
+.footer-section{
+    background-color: #17a2b8;
+}
